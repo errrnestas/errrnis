@@ -46,18 +46,18 @@ visibility: hidden;
 	
 }
 #aboutBox {
-	position: fixed;
-	float: right;
+	margin-right: 535px;
 }
-#ideaBox { margin-left: 170px;
+#ideaBox { 
+	margin-right: 360px;
 	
 }
-#jobsBox{ margin-right: 170px;
+#jobsBox{ margin-right: 185px;
 	
 }
 
 #contactBox {
-	margin-right: 20px;
+	margin-right: 10px;
 }
 .show-menu-btn,.hide-menu-btn{
   transition: 0.4s;
