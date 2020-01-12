@@ -16,7 +16,7 @@
 <body>
 
   <div class="header">
-    <h2 class="logo">Čiurlys.lt</h2>
+    <h2 class="logo"><a href="/index.html">Čiurlys.lt</a></h2>
     <input type="checkbox" id="chk">
     <label for="chk" class="show-menu-btn">
       <i class="fas fa-ellipsis-h"></i>

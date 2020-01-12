@@ -18,6 +18,12 @@
   float: left;
   padding: 0 0 0 20px;
   text-transform: uppercase;
+	
+}
+
+.logo a { 
+text-decoration: none;
+color: #fff;
 }
 
 .menu{
