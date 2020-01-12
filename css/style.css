@@ -187,7 +187,7 @@ p {
   font-size: 45px;
 }
 .button.success {
-  background-color: greenyellow;
+  background-color: forestgreen;
 }
 .button.success .icon .fa-remove {
   display: none;
