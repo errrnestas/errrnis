@@ -61,6 +61,118 @@ visibility: hidden;
 #contactBox {
 	margin-right: 10px;
 }
+
+.footer {
+  background: #152F4F;
+  color: white;
+  padding: 20px;
+	
+}
+.footer .links ul {
+  list-style-type: none;
+}
+.footer .links li a {
+  color: white;
+  transition: color .2s;
+}
+.footer .links li a:hover {
+  text-decoration: none;
+  color: #4180CB;
+}
+.footer .about-company i {
+  font-size: 25px;
+}
+.footer .about-company a {
+  color: white;
+  transition: color .2s;
+}
+.footer .about-company a:hover {
+  color: #4180CB;
+}
+.footer .location i {
+  font-size: 18px;
+}
+.footer .copyright p {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.mt-5 {
+	margin-top: 3rem !important;
+}
+
+.pt-5 {
+    padding-top: 3rem !important
+}
+
+.container {
+        min-width: 992px !important
+    }
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px
+}
+.mt-lg-0 {
+        margin-top: 0 !important
+    }
+.mt-sm-4,
+    .my-sm-4 {
+        margin-top: 1.5rem !important
+    }
+.mt-sm-3,
+    .my-sm-3 {
+        margin-top: 1rem !important
+    }
+.m-0 {
+    margin: 0 !important
+}
+
+.p-0 {
+    padding: 0 !important
+}
+
+.mb-0,
+.my-0 {
+    margin-bottom: 0 !important
+}
+
+.col-lg,
+.col-lg-1,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-lg-auto,{
+	    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px
+}
+
+.pr-5 {
+    padding-right: 3rem !important
+}
+
+.text-white-50 {
+    color: rgba(255, 255, 255, .5) !important
+}
+
+.fa-facebook-square:before {
+    content: "\f082"
+}
+
 .show-menu-btn,.hide-menu-btn{
   transition: 0.4s;
   font-size: 30px;
