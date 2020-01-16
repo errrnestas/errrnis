@@ -63,10 +63,9 @@ visibility: hidden;
 }
 
 .footer {
-  width: 100%;
   background: #152F4F;
   color: white;
-  padding: 100px;
+  padding: 50px 50px 50px 70px;
 	
 }
 .footer .links ul {
@@ -77,6 +76,7 @@ visibility: hidden;
   transition: color .2s;
 }
 .footer .links li a:hover {
+  cursor: pointer;
   text-decoration: none;
   color: #4180CB;
 }
@@ -98,49 +98,15 @@ visibility: hidden;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
-.mt-5 {
-	margin-top: 3rem !important;
-}
 
-.pt-5 {
-    padding-top: 3rem !important
-}
-
-.container {
-       width: 992px !important
-    }
 
 .row {
-    display: -ms-flexbox;
+   
     display: flex;
-    -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px
-}
-.mt-lg-0 {
-        margin-top: 0 !important
-    }
-.mt-sm-4,
-    .my-sm-4 {
-        margin-top: 1.5rem !important
-    }
-.mt-sm-3,
-    .my-sm-3 {
-        margin-top: 1rem !important
-    }
-.m-0 {
-    margin: 0 !important
+
 }
 
-.p-0 {
-    padding: 0 !important
-}
-
-.mb-0,
-.my-0 {
-    margin-bottom: 0 !important
-}
 
 .about-company {
 	width: 33%;
@@ -154,18 +120,13 @@ visibility: hidden;
 	width: 33%;
 }
 
-.pr-5 {
-    padding-right: 3rem !important;
-	width: 80%;
-}
+
 
 .text-white-50 {
     color: rgba(255, 255, 255, .5) !important
 }
 
-.fa-facebook-square:before {
-    content: "\f082"
-}
+/* --------- */
 
 .show-menu-btn,.hide-menu-btn{
   transition: 0.4s;
