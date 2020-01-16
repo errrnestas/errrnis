@@ -109,15 +109,20 @@ visibility: hidden;
 
 
 .about-company {
-	width: 33%;
+	padding-top: 10px;
+	padding-right: 20px;
+	
 }
 
 .links {
-	width: 33%;
+	padding-top: 10px;
+	padding-right: 20px;
+	
 }
 
 .location {
-	width: 33%;
+	padding-top: 10px;
+	padding-right: 20px;
 }
 
 
