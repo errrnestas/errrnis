@@ -88,6 +88,7 @@ visibility: hidden;
   transition: color .2s;
 }
 .footer .about-company a:hover {
+	width: 200px;
   color: #4180CB;
 }
 .footer .location i {
@@ -106,7 +107,7 @@ visibility: hidden;
 }
 
 .container {
-        min-width: 992px !important
+       width: 992px !important
     }
 
 .row {
@@ -141,29 +142,21 @@ visibility: hidden;
     margin-bottom: 0 !important
 }
 
-.col-lg,
-.col-lg-1,
-.col-lg-10,
-.col-lg-11,
-.col-lg-12,
-.col-lg-2,
-.col-lg-3,
-.col-lg-4,
-.col-lg-5,
-.col-lg-6,
-.col-lg-7,
-.col-lg-8,
-.col-lg-9,
-.col-lg-auto,{
-	    position: relative;
-    width: 100%;
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px
+.about-company {
+	width: 33%;
+}
+
+.links {
+	width: 33%;
+}
+
+.location {
+	width: 33%;
 }
 
 .pr-5 {
-    padding-right: 3rem !important
+    padding-right: 3rem !important;
+	width: 80%;
 }
 
 .text-white-50 {
