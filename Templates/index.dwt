@@ -143,19 +143,19 @@ Pellentesque sit amet libero et velit imperdiet fermentum.
     <div class="links">
       
         <ul>
-          <li>- <a href="#">Kavos staliukai</a></li>
+          <li>- <a href="/">Kavos staliukai</a></li>
+          <li>- <a href="#">Stalai</a></li>
           <li>- <a href="#">Lentynos</a></li>
-          <li>- <a href="#">Metalo dirbiniai</a></li>
-          <li>- <a href="#">Pavesinės</a></li>
-          <li>- <a href="#">Šiltnamiai</a></li>
           <li>- <a href="#">Durys</a></li>
+          <li>- <a href="#">Šiltnamiai</a></li>
+          <li>- <a href="#">Pavėsinės</a></li>
         </ul>
     </div>
     <div class="location">
       <h4>Kontaktai</h4>
  
-      <p class="mb-0"><i class="fa fa-phone mr-3"></i> (541) 754-3010</p>
-      <p><i class="fa fa-envelope-o mr-3"></i> info@hsdf.com</p>
+      <p class="mb-0"><i class="fa fa-phone mr-3"></i> +370 602 96284</p>
+      <p><i class="fa fa-envelope-o mr-3"></i> info.ciurlys@gmail.com</p>
     </div>
   </div>
   <div>
