@@ -104,13 +104,16 @@ visibility: hidden;
    
     display: flex;
     flex-wrap: wrap;
+	justify-content: space-around;
 
 }
 
 
 .about-company {
+	
 	padding-top: 10px;
 	padding-right: 20px;
+	float: left;
 	
 }
 
@@ -118,11 +121,14 @@ visibility: hidden;
 	padding-top: 10px;
 	padding-right: 20px;
 	
+	
 }
 
 .location {
 	padding-top: 10px;
 	padding-right: 20px;
+	
+	
 }
 
 
@@ -347,17 +353,18 @@ p {
 
 
 @media screen and (max-width:800px) {
-  .button, .social-nav {  
+  .button, .social-nav, .footer {  
 		
   position: absolute;
   visibility: hidden;
   z-index: -1111;
 	
 	}
-	a.one {
+	a.one, {
 		visibility: visible;
 	}
 	
+
 	.show-menu-btn,.hide-menu-btn{
     display: block;
   }
@@ -384,6 +391,9 @@ p {
   }
   #chk:checked ~ .menu{
     right: 0;
+	  
+	  
+	  
   }
 	
 }
