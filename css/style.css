@@ -362,13 +362,22 @@ p {
 
 
 @media screen and (max-width:800px) {
-  .button, .social-nav, .footer {  
+  .button, .social-nav {  
 		
   position: absolute;
   visibility: hidden;
   z-index: -1111;
 	
 	}
+	
+	.footer {  
+		
+  position: static;
+  visibility: hidden;
+
+	
+	}
+	
 	a.one {
 		visibility: visible;
 	}
