@@ -372,8 +372,7 @@ p {
 	
 	.footer {  
 		
-  position: static;
-  visibility: hidden;
+  display: none;
 
 	
 	}
