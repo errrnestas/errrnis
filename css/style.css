@@ -24,6 +24,27 @@
 #idea {
 	width: 30%;
 	height: 30%;
+	display: block;
+     margin: 0 auto;
+}
+
+#table{
+	width: 30%;
+	height: 30%;
+	display: block;
+     margin: 0 auto;
+}
+#table1{
+	width: 30%;
+	height: 30%;
+	display: block;
+     margin: 0 auto;
+}
+#table2{
+	width: 30%;
+	height: 30%;
+	display: block;
+     margin: 0 auto;
 }
 
 .logo a { 

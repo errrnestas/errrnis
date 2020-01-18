@@ -86,9 +86,7 @@
 	  
 
 <div class="content"><!-- TemplateBeginEditable name="content" -->
-<center>
-  <img id="idea" src="/img/idea.png" alt="">
-</center>
+ <img id="idea" src="/img/idea.png" alt="idea" > 
 <p></p>
 
 <h1> Kai idėja tampa realybe</h1>
@@ -100,16 +98,16 @@
 	<br>
 	<h4> Pirmas žingsnis </h4>
 	<br>
-	<p>Nupieškite ir atsiūskite mums savo projekto eskizą. Tai gali būti ir nuotrauka iš interneto ar pan.</p>  <img src="/img/hmmm1.jpg" alt=""> 
+	<p>Nupieškite ir atsiūskite mums savo projekto eskizą. Tai gali būti ir nuotrauka iš interneto ar pan.</p>  <img id="table" src="/img/hmmm1.jpg" alt=""> 
 	<h4> Antras žingsnis </h4>
 	<br>
-	<p>Mes suderiname eskizus ir atsiunčiame Jums SketchUp 3D modeli. Taip atrodys galutinis produktas</p>  <img src="/img/sketchup.jpg" alt=""> 
+	<p>Mes suderiname eskizus ir atsiunčiame Jums SketchUp 3D modeli, kaip atrodys galutinis produktas</p>  <img id="table1" src="/img/sketchup.jpg" alt=""> 
 	
 	<h4> Trečias žingsnis </h4>
 	<br>
-	<p>Mes pagaminame ir pristatome Jusų prekę. </p>  <img src="/img/final-product.jpg" alt=""> 
+	<p>Mes pagaminame ir pristatome Jusų prekę. </p>  <img id="table2" src="/img/final-product.jpg" alt=""> 
 	<ul class="list">
-  <a href="#">Išsirink kavos staliuką - 10 paprastų žingsnių</a>
+  <a href="#">Išsirinkite kavos staliuką - 10 paprastų žingsnių</a>
 </ul>
 <!-- TemplateEndEditable --></div>
 	
