@@ -406,6 +406,11 @@ p {
 	.show-menu-btn,.hide-menu-btn{
     display: block;
   }
+	
+	.content{
+		padding: 60px 10px 20px 10px;
+	}
+	
   .menu{
     position: fixed;
     width: 100%;
