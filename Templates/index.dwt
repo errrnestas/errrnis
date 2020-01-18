@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 	
+	
 <head>
     <meta charset="utf-8">
     <!-- TemplateBeginEditable name="doctitle" -->
@@ -9,7 +10,7 @@
   <link rel="stylesheet" href="/css/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
-	<link rel='stylesheet' href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 </head>
@@ -123,9 +124,8 @@ Maecenas imperdiet arcu sed malesuada cursus.
 Vivamus hendrerit orci vitae ipsum aliquam volutpat.
 Pellentesque ut turpis at massa ornare congue.
 Aenean at velit sit amet nulla tincidunt pharetra at a sem.
-Pellentesque sit amet libero et velit imperdiet fermentum.
-         Aliquam congue mi at ante viverra dictum.
-Maecenas imperdiet arcu sed malesuada cursus.
+Pellentesq.
+Pellentesq.
 Vivamus hendrerit orci vitae ipsum aliquam volutpat.
 Pellentesque ut turpis at massa ornare congue.
 Aenean at velit sit amet nulla tincidunt pharetra at a sem.
