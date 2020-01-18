@@ -205,6 +205,12 @@ p {
 .content{
   padding: 60px 80px 20px 80px;
 }
+.content a{
+  text-decoration: none;
+	font-weight: bold;
+	color: black;
+	border-bottom: solid;
+}
 .content img{
   width: 100%;
   max-width: 700px;
