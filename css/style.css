@@ -473,15 +473,16 @@ p {
 
 	}
 	.mobileContact  p { 
-		
+		min-width: 200px;
 		padding: 30px;
 		margin: 0 auto;
 	
 	}
 	
 	.mobileContact a  {	
+		font-size: 18px;
 		color: white;
-		text-decoration: none !important;
+		border: none;
 	}
 	
 
