@@ -452,26 +452,7 @@ p {
 
 	}
 	
-	.mobileContact {
-	display:flex;
-		background: #3B579D;
-		
 
-}
-	.mobileContact  p {
-			display: block;
-		width: 50%;
-		margin: 20px auto 40px auto;
-		
-	}
-	
-	.mobileContact a,  .fa, .fa-phone {
-	
-		color: white;
-		text-decoration: none;
-	
-	}
-	
 	
 	a.one {
 		visibility: visible;
@@ -509,9 +490,31 @@ p {
   }
   #chk:checked ~ .menu{
     right: 0;
+	}
 	  
-	  
+	  	.mobileContact {
+	display:flex;
+		background: #3B579D;
+		
+
+}
+	.mobileContact  p {
+			display: block;
+		width: 50%;
+		margin: 20px auto 40px auto;
+		padding: 10px;
+		
+	}
+	
+	.mobileContact a,  .fa, .fa-phone {
+	
+		color: white;
+		
+
+	}
+	
+
 	  
   }
 	
-}
+
