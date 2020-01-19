@@ -104,12 +104,24 @@ visibility: hidden;
 .footer .links li a {
   color: white;
   transition: color .2s;
+	text-decoration: none;
+	padding: 20px;
 }
 .footer .links li a:hover {
   cursor: pointer;
   text-decoration: none;
   color: #D8D8D8;
+ 
+  
 }
+.links  a:hover {
+  cursor: pointer;
+  text-decoration: none;
+  color: #D8D8D8;
+ background: #141CA7;
+	
+}
+
 .footer .about-company i {
   font-size: 25px;
 }
@@ -155,14 +167,15 @@ visibility: hidden;
 	
 	cursor: pointer;
 }
-
+/*
 .links {
 	padding-top: 10px;
 	padding-right: 20px;
 	padding-bottom: 20px;
 	
 	
-}
+}.
+*/
 
 .location {
 	padding-top: 10px;
