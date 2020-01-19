@@ -95,7 +95,7 @@ visibility: hidden;
 .footer {
   background: #3B579D;
   color: white;
-  padding: 50px 50px 50px 70px;
+  padding: 30px 50px 30px 70px;
 	
 }
 
@@ -116,11 +116,12 @@ visibility: hidden;
   color: white;
   transition: color .2s;
 	text-decoration: none;
+	padding: 5px 5px 5px 5px;
 
 }
 	
 	
-}
+
 .footer .links li:hover {
   cursor: pointer;
   text-decoration: none;
@@ -139,7 +140,7 @@ visibility: hidden;
 }
  
 	
-}
+
 
 .footer .about-company i {
   font-size: 25px;
