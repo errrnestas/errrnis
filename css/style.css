@@ -104,15 +104,17 @@ visibility: hidden;
 .footer .links ul {
   list-style-type: none;
 
+
 }
 .footer .links li  {
   color: white;
   transition: color .2s;
 	text-decoration: none;
-	padding: 5px 5px 5px 5px;
+	margin: 5px 5px 5px 5px;
 }
 	
 .links a {
+	display: block;
   color: white;
   transition: color .2s;
 	text-decoration: none;
@@ -131,12 +133,14 @@ visibility: hidden;
   
 }
 .links  a:hover {
+	display: block;
   cursor: pointer;
   text-decoration: none;
   color: white;
 	background: #1D3C78;
 	border-radius: 1px;
 	padding: 5px 5px 5px 5px;
+	
 }
  
 	
