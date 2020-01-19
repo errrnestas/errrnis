@@ -6,7 +6,7 @@
 }
 .header{
   height: 60px;
-  background: #d63031;
+  background: #CB2026;
   left: 20;
   right: 2;
   color: #fff;
@@ -93,7 +93,7 @@ visibility: hidden;
 }
 
 .footer {
-  background: #152F4F;
+  background: #3B579D;
   color: white;
   padding: 50px 50px 50px 70px;
 	
@@ -224,7 +224,7 @@ p {
   text-align: justify;
 }
 .list {
-    background: #d63031;
+    background: #CB2026;
     text-align: center; 
 }
 
@@ -242,7 +242,7 @@ p {
 
 .button {
   display: block;
-  background-color: #d63031;
+  background-color: #CB2026;
   width: 150px;
   height: 60px;
   line-height: 60px;
@@ -313,7 +313,7 @@ p {
   font-size: 45px;
 }
 .button.success {
-  background-color: #980909;
+  background-color: #CB2026;
 }
 .button.success .icon .fa-remove {
   display: none;
@@ -382,12 +382,7 @@ p {
 .model-0 .facebook {
   background: #3B579D;
 }
-.model-0 .google-plus {
-  background: #DD4A3A;
-}
-.model-0 .linkedin {
-  background: #007BB6;
-}
+
 .model-0 .pinterest {
   background: #CB2026;
 }
