@@ -95,7 +95,7 @@ visibility: hidden;
 .footer {
   background: #3B579D;
   color: white;
-  padding: 30px 50px 30px 70px;
+  padding: 30px 50px 20px 70px;
 	
 }
 
@@ -374,7 +374,7 @@ p {
   padding: 0;
   list-style: none;
   display: inline-block;
-  margin: 100px auto;
+  margin: 50px auto 200px auto;
 }
 .social-nav li {
   display: inline-block;
