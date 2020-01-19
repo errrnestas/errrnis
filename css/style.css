@@ -110,7 +110,7 @@ visibility: hidden;
   color: white;
   transition: color .2s;
 	text-decoration: none;
-	margin: 5px 5px 5px 5px;
+	margin: 3px 5px 3px 5px;
 }
 	
 .links a {
@@ -118,7 +118,7 @@ visibility: hidden;
   color: white;
   transition: color .2s;
 	text-decoration: none;
-	padding: 5px 5px 5px 5px;
+	padding: 3px 5px 3px 5px;
 
 }
 	
@@ -139,7 +139,7 @@ visibility: hidden;
   color: white;
 	background: #1D3C78;
 	border-radius: 1px;
-	padding: 5px 5px 5px 5px;
+	padding: 3px 5px 3px 5px;
 	
 }
  
