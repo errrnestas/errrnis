@@ -499,7 +499,7 @@ p {
 	}
 	
 	
-	}
+	
 
 	
   .menu{
@@ -526,11 +526,11 @@ p {
   #chk:checked ~ .menu{
     right: 0;
 	}
-	  
+}
 
 	
 
 	  
-  }
+
 	
 
