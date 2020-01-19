@@ -77,19 +77,19 @@ visibility: hidden;
 	
 }
 #aboutBox {
-	margin-right: 535px;
+	margin-right: 545px;
 }
 #ideaBox { 
-	margin-right: 360px;
+	margin-right: 370px;
 	
 }
 #jobsBox{ 
-	margin-right: 185px;
+	margin-right: 195px;
 	
 }
 
 #contactBox {
-	margin-right: 10px;
+	margin-right: 20px;
 }
 
 .footer {
@@ -108,7 +108,7 @@ visibility: hidden;
 .footer .links li a:hover {
   cursor: pointer;
   text-decoration: none;
-  color: #4180CB;
+  color: #D8D8D8;
 }
 .footer .about-company i {
   font-size: 25px;
@@ -117,10 +117,8 @@ visibility: hidden;
   color: white;
   transition: color .2s;
 }
-.footer .about-company a:hover {
-	width: 200px;
-  color: #4180CB;
-}
+
+
 .footer .location i {
   font-size: 18px;
 }
@@ -148,6 +146,15 @@ visibility: hidden;
 	padding-bottom: 20px;
 	
 }
+.about-company a {
+	text-decoration: none;
+	color: white;
+}
+
+.about-company a:hover {
+	
+	cursor: pointer;
+}
 
 .links {
 	padding-top: 10px;
@@ -174,6 +181,7 @@ visibility: hidden;
  .location a {
 	
 	color: white;
+	cursor: pointer;
 }
 
 
