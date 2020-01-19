@@ -98,26 +98,45 @@ visibility: hidden;
   padding: 50px 50px 50px 70px;
 	
 }
+
+
+
 .footer .links ul {
   list-style-type: none;
+
 }
-.footer .links li a {
+.footer .links li  {
   color: white;
   transition: color .2s;
 	text-decoration: none;
-	padding: 20px;
+	padding: 5px 5px 5px 5px;
 }
-.footer .links li a:hover {
+	
+.links a {
+  color: white;
+  transition: color .2s;
+	text-decoration: none;
+
+}
+	
+	
+}
+.footer .links li:hover {
   cursor: pointer;
   text-decoration: none;
-  color: #D8D8D8;
+  color: white;
+
  
   
 }
 .links  a:hover {
   cursor: pointer;
   text-decoration: none;
-  color: #D8D8D8;
+  color: white;
+	background: #1D3C78;
+	border-radius: 1px;
+	padding: 5px 5px 5px 5px;
+}
  
 	
 }
@@ -167,15 +186,9 @@ visibility: hidden;
 	
 	cursor: pointer;
 }
-/*
-.links {
-	padding-top: 10px;
-	padding-right: 20px;
-	padding-bottom: 20px;
-	
-	
-}.
-*/
+
+
+
 
 .location {
 	padding-top: 10px;
