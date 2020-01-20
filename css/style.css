@@ -5,6 +5,10 @@
   
 }
 
+h1.centre {
+text-align: center;
+		
+}
 
 
 .header{
@@ -65,7 +69,6 @@ font-size: 30px;
    padding: 0 50px; 
   line-height: 60px;
 }
-
 
 .menu a{
   
@@ -437,6 +440,8 @@ p {
 	display: none;
 }
 
+
+
 @media screen and (max-width:800px) {
   .button, .social-nav {  
 		
@@ -521,8 +526,14 @@ p {
   .hide-menu-btn{
     position: absolute;
     top: 40px;
-    right: 40px;
+    right: 40px; 
   }
+	.text-white-50 {
+		display: block;
+		text-align: center;
+		color: white;
+	}
+	
   #chk:checked ~ .menu{
     right: 0;
 	}
