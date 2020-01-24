@@ -10,7 +10,9 @@ text-align: center;
 		
 }
 
-
+h4 {
+	text-align: center;
+}
 .header{
   height: 60px;
   background: #CB2026;
@@ -453,6 +455,7 @@ p {
 
 .row1 {
   margin: 8px 0px;
+	
 }
 
 /* Add padding BETWEEN each column */
@@ -465,6 +468,9 @@ p {
 .column {
   float: left;
   width: 25%;
+	  border: solid;
+ 
+	
 }
 
 /* Clear floats after rows */ 
@@ -472,19 +478,25 @@ p {
   content: "";
   display: table;
   clear: both;
+	
 }
 
 /* Content */
 .content1 {
   background-color: white;
   padding: 10px;
-  border: solid;
-  border-width: thin;
+
+	height: 300px;
+	
 }
 
-	.content1:hover {
-		background: grey;
-	}
+.content1 h4 {
+	
+	position: relative;
+bottom: 10px;
+	
+}
+
 
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 900px) {
@@ -493,7 +505,7 @@ p {
 
   }
 	.content1:hover {
-		background: grey;
+		background: #CB2026;
 	}
 }
 
@@ -503,7 +515,8 @@ p {
     width: 100%;
   }
 		.content1:hover {
-		background: grey;
+		background: #CB2026;
+			
 	}
 }
 
