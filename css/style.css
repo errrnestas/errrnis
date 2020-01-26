@@ -469,6 +469,8 @@ p {
   float: left;
   width: 25%;
 	  border: solid;
+	border-width: thin;
+	margin: 20px;
  
 	
 }
@@ -504,20 +506,15 @@ bottom: 10px;
     width: 30%;
 
   }
-	.content1:hover {
-		background: #CB2026;
-	}
+	
 }
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
-    width: 100%;
+    width: 80%;
   }
-		.content1:hover {
-		background: #CB2026;
-			
-	}
+
 }
 
 /*-----------*/
@@ -538,16 +535,14 @@ bottom: 10px;
 	}
 	
   .column {
-    width: 100%;
+    width: 90%;
   }
 	
 	.one {
 		visibility: visible;
 	}
 	
-			.content1:hover {
-		background: grey;
-	}
+	
 
 	.show-menu-btn,.hide-menu-btn{
     display: block;
