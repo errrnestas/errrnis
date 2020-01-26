@@ -526,6 +526,14 @@ bottom: 10px;
 	   width: 50%;
   }
 	
+	.column img{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 0px;
+		width: 85%;
+	}
+	
 	.one {
 		visibility: visible;
 	}
