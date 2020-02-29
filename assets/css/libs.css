@@ -9423,3 +9423,8 @@ img.mfp-img {
   -webkit-transform: perspective(2500px) rotateX(0);
   transform: perspective(2500px) rotateX(0)
 }
+.safe { 
+	display: block;
+	width: 100%;
+	height: 100%
+}
