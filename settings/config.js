@@ -24,9 +24,10 @@ window.Config = {
      */
     introStaticText: "Mes", // Static text
     introTypingTexts: [ // Set of texts to display in Typing Texts module
-        "ATSAKINGI",
-        "PATYRE",
-        "PROFESIONALŪS",
+        "atsakingi",
+        "patyre",
+        "profesionalūs",
+		"IEŠKOME STOGDENGIŲ",
         "ČIURLYS.LT"
     ],
 
