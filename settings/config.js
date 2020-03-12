@@ -27,7 +27,6 @@ window.Config = {
         "atsakingi",
         "patyre",
         "profesionalūs",
-		"IEŠKOME STOGDENGIŲ",
         "ČIURLYS.LT"
     ],
 
